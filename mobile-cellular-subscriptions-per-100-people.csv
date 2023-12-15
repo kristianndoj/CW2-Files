@@ -1,0 +1,284 @@
+Entity,Year,Mobile cellular subscriptions (per 100 people)
+Brazil,1960,0
+Brazil,1965,0
+Brazil,1970,0
+Brazil,1975,0
+Brazil,1976,0
+Brazil,1977,0
+Brazil,1978,0
+Brazil,1979,0
+Brazil,1980,0
+Brazil,1981,0
+Brazil,1982,0
+Brazil,1983,0
+Brazil,1984,0
+Brazil,1985,0
+Brazil,1986,0
+Brazil,1987,0
+Brazil,1988,0
+Brazil,1989,0
+Brazil,1990,0.000447641
+Brazil,1991,0.00441813
+Brazil,1992,0.0207443
+Brazil,1993,0.116035
+Brazil,1994,0.360032
+Brazil,1995,0.793441
+Brazil,1996,1.51758
+Brazil,1997,2.72114
+Brazil,1998,4.33973
+Brazil,1999,8.72378
+Brazil,2000,13.2663
+Brazil,2001,16.2226
+Brazil,2002,19.4282
+Brazil,2003,25.5065
+Brazil,2004,35.6536
+Brazil,2005,46.318
+Brazil,2006,53.1009
+Brazil,2007,63.6301
+Brazil,2008,78.4467
+Brazil,2009,87.3633
+Brazil,2010,100.621
+Brazil,2011,118.653
+Brazil,2012,124.606
+Brazil,2013,134.851
+Brazil,2014,138.451
+Brazil,2015,126.088
+Brazil,2016,118.386
+Brazil,2017,106.464
+Brazil,2018,99.9717
+Brazil,2019,95.7165
+Germany,1960,0
+Germany,1965,0
+Germany,1970,0
+Germany,1975,0
+Germany,1976,0
+Germany,1977,0
+Germany,1978,0
+Germany,1979,0
+Germany,1980,0
+Germany,1981,0
+Germany,1982,0
+Germany,1983,0
+Germany,1984,0
+Germany,1985,0.00139011
+Germany,1986,0.0305888
+Germany,1987,0.0624836
+Germany,1988,0.126122
+Germany,1989,0.208007
+Germany,1990,0.344839
+Germany,1991,0.669575
+Germany,1992,1.21542
+Germany,1993,2.20615
+Germany,1994,3.08105
+Germany,1995,4.59091
+Germany,1996,6.77785
+Germany,1997,10.1672
+Germany,1998,17.0916
+Germany,1999,28.807
+Germany,2000,59.2156
+Germany,2001,68.9052
+Germany,2002,72.5184
+Germany,2003,79.3978
+Germany,2004,87.3547
+Germany,2005,97.1426
+Germany,2006,105.13
+Germany,2007,118.4
+Germany,2008,130.17
+Germany,2009,129.79
+Germany,2010,109.369
+Germany,2011,112.423
+Germany,2012,114.113
+Germany,2013,123.233
+Germany,2014,122.197
+Germany,2015,117.818
+Germany,2016,125.885
+Germany,2017,132.715
+Germany,2018,129.324
+Germany,2019,128.357
+India,1960,0
+India,1965,0
+India,1970,0
+India,1975,0
+India,1976,0
+India,1977,0
+India,1978,0
+India,1979,0
+India,1980,0
+India,1981,0
+India,1982,0
+India,1983,0
+India,1984,0
+India,1985,0
+India,1986,0
+India,1987,0
+India,1988,0
+India,1989,0
+India,1990,0
+India,1991,0
+India,1992,0
+India,1993,0
+India,1994,0
+India,1995,0.007955
+India,1996,0.0333854
+India,1997,0.0881046
+India,1998,0.117255
+India,1999,0.181523
+India,2000,0.338556
+India,2001,0.608372
+India,2002,1.18904
+India,2003,3.03098
+India,2004,4.62278
+India,2005,7.85459
+India,2006,14.2473
+India,2007,19.7446
+India,2008,28.8914
+India,2009,43.1205
+India,2010,60.9415
+India,2011,71.4925
+India,2012,68.3152
+India,2013,69.197
+India,2014,72.8626
+India,2015,76.4076
+India,2016,85.1487
+India,2017,87.3177
+India,2018,86.9426
+India,2019,84.27
+Kenya,1960,0
+Kenya,1965,0
+Kenya,1970,0
+Kenya,1975,0
+Kenya,1976,0
+Kenya,1977,0
+Kenya,1978,0
+Kenya,1979,0
+Kenya,1980,0
+Kenya,1981,0
+Kenya,1982,0
+Kenya,1983,0
+Kenya,1984,0
+Kenya,1985,0
+Kenya,1986,0
+Kenya,1987,0
+Kenya,1988,0
+Kenya,1989,0
+Kenya,1990,0
+Kenya,1991,0
+Kenya,1992,0.00434335
+Kenya,1993,0.00444594
+Kenya,1994,0.0073839
+Kenya,1995,0.0082072
+Kenya,1996,0.00988477
+Kenya,1997,0.0230048
+Kenya,1998,0.0355565
+Kenya,1999,0.0763921
+Kenya,2000,0.398579
+Kenya,2001,1.82656
+Kenya,2002,3.51722
+Kenya,2003,4.5872
+Kenya,2004,7.14505
+Kenya,2005,12.5924
+Kenya,2006,19.4967
+Kenya,2007,29.3222
+Kenya,2008,40.972
+Kenya,2009,47.344
+Kenya,2010,59.4064
+Kenya,2011,65.0345
+Kenya,2012,69.3039
+Kenya,2013,69.9253
+Kenya,2014,72.0184
+Kenya,2015,78.7746
+Kenya,2016,79.4719
+Kenya,2017,85.2532
+Kenya,2018,96.3202
+Kenya,2019,103.769
+South Korea,1960,0
+South Korea,1965,0
+South Korea,1970,0
+South Korea,1975,0
+South Korea,1976,0
+South Korea,1977,0
+South Korea,1978,0
+South Korea,1979,0
+South Korea,1980,0
+South Korea,1981,0
+South Korea,1982,0
+South Korea,1983,0
+South Korea,1986,0.0171816
+South Korea,1987,0.0246003
+South Korea,1988,0.0483597
+South Korea,1989,0.0934735
+South Korea,1990,0.186412
+South Korea,1991,0.382974
+South Korea,1992,0.620155
+South Korea,1993,1.06413
+South Korea,1994,2.14247
+South Korea,1995,3.62376
+South Korea,1996,6.95283
+South Korea,1997,14.8904
+South Korea,1998,30.0695
+South Korea,1999,49.8601
+South Korea,2000,56.5995
+South Korea,2001,60.8843
+South Korea,2002,67.3808
+South Korea,2003,69.6045
+South Korea,2004,75.4454
+South Korea,2005,78.7299
+South Korea,2006,82.2356
+South Korea,2007,90.485
+South Korea,2008,92.7302
+South Korea,2009,97.1564
+South Korea,2010,102.466
+South Korea,2011,105.465
+South Korea,2012,107.119
+South Korea,2013,108.611
+South Korea,2014,113.204
+South Korea,2015,115.961
+South Korea,2016,120.226
+South Korea,2017,124.585
+South Korea,2018,129.673
+South Korea,2019,134.489
+United States,1960,0
+United States,1965,0
+United States,1970,0
+United States,1975,0
+United States,1976,0
+United States,1977,0
+United States,1978,0
+United States,1979,0
+United States,1980,0
+United States,1984,0.0384459
+United States,1985,0.141461
+United States,1986,0.28086
+United States,1987,0.502282
+United States,1988,0.83657
+United States,1989,1.40512
+United States,1990,2.09545
+United States,1991,2.96895
+United States,1992,4.29306
+United States,1993,6.16859
+United States,1994,9.20314
+United States,1995,12.7414
+United States,1996,16.4134
+United States,1997,20.3568
+United States,1998,25.151
+United States,1999,30.8912
+United States,2000,38.8618
+United States,2001,45.1498
+United States,2002,49.3596
+United States,2003,55.4273
+United States,2004,63.2174
+United States,2005,69.0524
+United States,2006,77.1093
+United States,2007,82.9318
+United States,2008,86.0995
+United States,2009,89.545
+United States,2010,92.2678
+United States,2011,95.449
+United States,2012,97.0686
+United States,2013,98.1977
+United States,2014,111.556
+United States,2015,119.144
+United States,2016,122.595
+United States,2017,123.045
+United States,2018,129.014
+United States,2019,134.459
