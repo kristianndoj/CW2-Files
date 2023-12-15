@@ -1,6 +1,4 @@
 Country,Density(km2),Year,CO2 emission (Tons),Population(2022)
-string,string,continuous,continuous,continuous
-meta,meta,,,
 China,147/km²,1750,0,1425887337
 China,147/km²,1751,0,1425887337
 China,147/km²,1752,0,1425887337
